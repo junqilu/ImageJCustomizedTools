@@ -1,3 +1,4 @@
+//© 2022 Junqi Lu <jql2026@gmail.com>
 //Obsolete because you can just use ROI manager to make multiple selections
 
 end_count=6;

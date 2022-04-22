@@ -1,3 +1,6 @@
+//© 2022 Junqi Lu <jql2026@gmail.com>
+//This one works if you need to set the scale for each image individually
+
 macro "SetScale [q]"{ //Press Q key will call on this macro
 	//You put a straight line first and this macro will set that straightline as 1 
 
