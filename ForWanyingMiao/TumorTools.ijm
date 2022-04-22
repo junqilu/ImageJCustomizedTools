@@ -1,3 +1,6 @@
+//© 2022 Junqi Lu <jql2026@gmail.com>
+//Specifically designed for Dr. Wanying Miao's needs
+
 macro "TumorMeasure [t]"{	
 	//Written for Wanying Miao, MD/PHD to increase her efficiency
 	
